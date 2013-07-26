@@ -272,7 +272,12 @@ public class BowlingGame
         {
         	pin = "10";
         }
-          
+
+        if(pin.equalsIgnoreCase("-")) // Open
+        {
+        	pin = "0"; // 하나도 넘어지지 않은 경우 
+        }
+        
         if(pin.toUpperCase().equalsIgnoreCase("F")) // Foul
         {
         	pin = "0";  
