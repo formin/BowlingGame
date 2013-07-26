@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.183" errors="0" skipped="0" tests="7" name="BowlingGameTest">
+<testsuite failures="0" time="0.185" errors="0" skipped="0" tests="7" name="BowlingGameTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -27,7 +27,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Applications/apache-tomcat-7.0.42/webapps/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3808140525803748115.tmp"/>
+    <property name="classworlds.conf" value="/Applications/apache-tomcat-7.0.42/webapps/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf2025982787091987918.tmp"/>
     <property name="sun.jnu.encoding" value="EUC_KR"/>
     <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -65,7 +65,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0" classname="BowlingGameTest" name="play_odd1"/>
+  <testcase time="0.006" classname="BowlingGameTest" name="play_odd1"/>
   <testcase time="0" classname="BowlingGameTest" name="play_odd2"/>
   <testcase time="0" classname="BowlingGameTest" name="play_odd3"/>
   <testcase time="0" classname="BowlingGameTest" name="play_odd4"/>
